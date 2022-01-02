@@ -30,33 +30,19 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @NaysaBots
 
-👨‍💻 **Editing:** @Mrk_YT
-
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
-🗣️ **Any Doubt:** @Mo_Tech_Group
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @NaysaBots
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+🗣️ **Any Doubt:** @Naysachat
 
-👨‍💻 **Editing:** @Mrk_YT
+📺 **Support :** [Support Group](https://t.me/tellybots_4u)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
-
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
-
-Donate Now (coming soon)
 """
 	HOME_TEXT = """
-**👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** **MT FileStoreBot**.
+**👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** **FileStoreBot**.
 
 **Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check About Bot Button**.
 """
